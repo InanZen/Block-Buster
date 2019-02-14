@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block Buster", "Block Buster\Block Buster\Block Buster.csproj", "{6F027CF9-7C93-47EE-A765-8D89563D0673}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Block BusterContent", "Block Buster\Block BusterContent\Block BusterContent.contentproj", "{FA5F739E-0590-4E91-A5B4-B34E0554E122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F027CF9-7C93-47EE-A765-8D89563D0673}.Debug|x86.ActiveCfg = Debug|x86
+		{6F027CF9-7C93-47EE-A765-8D89563D0673}.Debug|x86.Build.0 = Debug|x86
+		{6F027CF9-7C93-47EE-A765-8D89563D0673}.Release|x86.ActiveCfg = Release|x86
+		{6F027CF9-7C93-47EE-A765-8D89563D0673}.Release|x86.Build.0 = Release|x86
+		{FA5F739E-0590-4E91-A5B4-B34E0554E122}.Debug|x86.ActiveCfg = Debug|x86
+		{FA5F739E-0590-4E91-A5B4-B34E0554E122}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
